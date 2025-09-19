@@ -1,0 +1,5 @@
+Tegu oli operastioonisüsteemid kursuse esimese praktikumiga. Aega kulus umbes 7 tundi. Praktikumi käigus paigaldasin enda läpakasse Virtualbox tarkvara, sinna sisse lõin uue virtuaalmasina ja paigaldasin sinna sisse eestikeelse Windows 11 operatsioonisüsteemi. Täiendavalt kohandasin ja seadistasin WIndows 11 keskkonda vastavalt juhendi soovitustel. Järgnevalt esitan enda lahenduste tõestuse.
+<img width="960" height="755" alt="Kuvatõmmis 2025-09-18 185331" src="https://github.com/user-attachments/assets/275bb350-77be-49a9-969e-f1a0e2f3bb32" />
+<img width="1503" height="827" alt="Kuvatõmmis 2025-09-18 185628" src="https://github.com/user-attachments/assets/d4411c71-1007-4405-aaa7-02f57df825b2" />
+<img width="1828" height="48" alt="Kuvatõmmis 2025-09-18 185913" src="https://github.com/user-attachments/assets/c4769087-fd5c-41bf-bf3c-ce0bbc1476b7" />
+<img width="1278" height="796" alt="Screenshot 2025-09-18 190054" src="https://github.com/user-attachments/assets/00a9cdf6-50e2-4bcb-a2f4-9132ede9326c" />
