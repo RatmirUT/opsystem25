@@ -1,0 +1,114 @@
+==============================
+1) Masina nimi, PowerShell ja Windows
+==============================
+Masina nimi: DESKTOP-93DJPBT
+PowerShelli versioon: 5.1.26100.7019
+Windows: Microsoft Windows 11 Pro Education (Build 26100)
+
+
+==============================
+2) Võrgu konfiguratsioon
+==============================
+
+Description                          MACAddress        DHCPEnabled IPAddress
+-----------                          ----------        ----------- ---------
+Intel(R) PRO/1000 MT Desktop Adapter 08:00:27:0C:6E:F2 True        10.0.2.15, fe80::c394:5dd6:ba36:...
+
+
+==============================
+3) Protsessor ja RAM
+==============================
+CPU: AMD Ryzen 5 5600U with Radeon Graphics
+RAM (GB): 3.98
+
+
+==============================
+4) Graafikakaart
+==============================
+
+Name                               DriverVersion  DriverDate              CurrentHorizontalResolution CurrentVerticalResolution
+----                               -------------  ----------              --------------------------- --------------------------
+VirtualBox Graphics Adapter (WDDM) 7.2.0.20228    13.08.2025 03:00:00                              958                        946
+
+
+==============================
+5) Kõvakettad
+==============================
+
+Model         Maht (GB)
+-----         ---------
+VBOX HARDDISK 1
+VBOX HARDDISK 63.99
+VBOX HARDDISK 1
+
+
+==============================
+5b) C: ketas
+==============================
+
+DeviceID Maht (GB) Vaba (GB)
+-------- --------- ---------
+C:       63.17     31.49
+
+
+==============================
+6) PCI-seadmete draiverid
+==============================
+
+DeviceName                           Manufacturer                     DriverVersion
+----------                           ------------                     -------------
+Standard SATA AHCI Controller        Standard SATA AHCI Controller    10.0.26100.7019
+USB xHCI Compliant Host Controller   Generic USB xHCI Host Controller 10.0.26100.7019
+High Definition Audio Controller     Microsoft                        10.0.26100.7019
+VirtualBox Guest Device              Oracle Corporation               7.2.0.20228
+Intel(R) PRO/1000 MT Desktop Adapter Intel                            8.4.13.0
+VirtualBox Graphics Adapter (WDDM)   Oracle Corporation               7.2.0.20228
+PCI to ISA Bridge                    Intel                            10.0.26100.1150
+CPU to PCI Bridge                    Intel                            10.0.26100.1150
+
+
+==============================
+7) Lokaalsed kasutajad
+==============================
+
+Name               Description                                                     LocalAccount Disabled
+----               -----------                                                     ------------ --------
+Administrator      Built-in account for administering the computer/domain          True         False
+DefaultAccount     A user account managed by the system.                           True         True
+Guest              Built-in account for guest access to the computer/domain        True         True
+Ratmir                                                                            True         False
+Ratmir-tava                                                                       True         False
+tootaja1                                                                          True         False
+tootaja2                                                                          True         False
+WDAGUtilityAccount A user account managed by the system for Windows Defender       True         True
+ylemus                                                                            True         False
+
+
+==============================
+8) Käimasolevate protsesside arv
+==============================
+Protsesse kokku: 152
+
+
+==============================
+9) 10 viimati käivitatud protsessi
+==============================
+
+Name                          Id   StartTime
+----                          --   ---------
+audiodg                     9292  22.12.2025 15:40:26
+dllhost                     9608  22.12.2025 15:40:24
+RuntimeBroker               4072  22.12.2025 15:38:51
+backgroundTaskHost          6596  22.12.2025 15:38:51
+WindowsTerminal             4820  22.12.2025 15:36:38
+OpenConsole                 1172  22.12.2025 15:36:38
+conhost                     3932  22.12.2025 15:36:38
+powershell                  8324  22.12.2025 15:36:37
+WindowsPackageManagerServer 8136  22.12.2025 15:35:03
+RuntimeBroker               8604  22.12.2025 15:35:01
+
+
+==============================
+10) Kuupäev ja kellaaeg
+==============================
+22.12.2025 15:41:25
